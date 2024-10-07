@@ -1,4 +1,8 @@
 Scripts ran for this project included setting up a timed automation process through my PythonAnywhere account.
-I've used Twilio integration with WhatsApp to send text notifications to my phone number that was verified in the Twilio account setup process.
+I've used Twilio integration with WhatsApp to send text notifications to my phone number that was verified in the Twilio
+ account setup process.
 
-Due to a change in the law, as of January 31, 2024 no one is able to send a SMS message originating from a Toll-Free Number (TFN) within the US or Canada, unless the TFN has been verified, the user is vetted and content intended to be transmitted is vetted too. This verification can take anywhere from 2-4 weeks which is a process I did not go through for the purpose of this project. Instead I've used the WhatsApp integration with Twilio instead of an SMS message.
+Due to a change in the law, as of January 31, 2024 no one is able to send a SMS message originating from a Toll-Free Number
+ (TFN) within the US or Canada, unless the TFN has been verified, the user is vetted and content intended to be transmitted 
+ is vetted too. This verification can take anywhere from 2-4 weeks which is a process I did not go through for the purpose 
+ of this project. Instead I've used the WhatsApp integration with Twilio instead of an SMS message.
